@@ -9,11 +9,11 @@ function Toolbar() {
     function handleScrollEvent(event) {
         const navbarBg = document.querySelector(".Navbar__sticky-bg");
         let positionY = window.scrollY;
-        if(positionY === 0) {
+        if(positionY !== 0) {
             navbarBg.style.backgroundColor = "var(--violet)";
         }
         else {
-            navbarBg.style.backgroundColor = "rgba(76, 29, 149, 0)";
+            navbarBg.style.backgroundColor = "rgba(0, 0, 0, 0)";
             console.log("T R I G G E R E D")
         }
         
