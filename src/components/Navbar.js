@@ -14,7 +14,6 @@ function Toolbar() {
         }
         else {
             navbarBg.style.backgroundColor = "rgba(0, 0, 0, 0)";
-            console.log("T R I G G E R E D")
         }
         
     }

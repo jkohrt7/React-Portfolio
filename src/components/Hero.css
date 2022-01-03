@@ -1,0 +1,18 @@
+.Hero__bg-parallax {
+  background-image: url(../img/endless-constellation.svg);
+  background-attachment: fixed;
+
+  margin: -8rem;
+  padding: 15rem;
+  padding-bottom: 10rem;
+}
+
+.Hero__header {
+  font-size: 4rem;
+  color: white;
+}
+
+.Hero__text {
+  font-size: 1.5rem;
+  color: white;
+}

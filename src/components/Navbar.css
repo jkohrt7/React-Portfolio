@@ -8,10 +8,11 @@
   position: sticky;
   padding: 0.5rem 1rem;
   z-index: 50;
+  max-height: 2.75rem;
 
-  background-color: var(--violet);
+  background-color: rgba(0, 0, 0, 0);
   transition-property: all;
-  transition-duration: 0.2s;
+  transition-duration: 0.3s;
 }
 
 .Navbar__content-container {
