@@ -1,0 +1,9 @@
+.Body__main-container {
+  display: flex;
+  flex-direction: column;
+
+  margin: auto;
+  padding: 0 10rem;
+
+  background-color: none;
+}
