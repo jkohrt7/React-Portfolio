@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: row;
 
-  line-height: 200%;
+  line-height: 175%;
 }
 
 .AboutMe__text {
@@ -13,11 +13,14 @@
 .AboutMe__title-text {
   color: var(--violet);
   border-bottom: 2px solid var(--violet);
-  font-size: x-large;
+  font-size: xx-large;
+
+  padding-bottom: 0.5rem;
 }
 
 .AboutMe__indented-paragraph {
   text-indent: 50px;
+  font-size: 90%;
 }
 
 .AboutMe__skills {
@@ -26,15 +29,17 @@
   flex-wrap: wrap;
 
   flex-basis: 40%;
+  flex-shrink: 2;
 
   margin: auto;
   align-items: center;
 
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .AboutMe__skills img {
   max-width: 8rem;
   max-height: 8rem;
+
   margin: 15px;
 }
