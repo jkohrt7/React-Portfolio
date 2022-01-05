@@ -18,6 +18,8 @@ A portfolio page created with React and vanilla css.
 
 No installation is necessary to visit the page; it's available through github pages here: https://jkohrt7.github.io/Test-Portfolio_V2/
 
+![An image of the portfolio app.](Portfolio_SS.jpg)
+
 If you're interested in downloading the project, you'll need
 
 - [Node.js] (https://nodejs.org/en/)
