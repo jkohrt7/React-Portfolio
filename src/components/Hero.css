@@ -18,5 +18,6 @@
 
 .Hero__text {
   font-size: 1.5rem;
+  line-height: 140%;
   color: white;
 }

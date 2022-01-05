@@ -16,7 +16,14 @@
   justify-content: center;
 }
 
+@media screen and (max-width: 1120px) {
+  .Contact__container {
+    flex-direction: column;
+  }
+}
+
 .Contact__img {
+  margin-top: 1rem;
   border-radius: 20%;
   max-height: 20rem;
 
@@ -31,6 +38,12 @@
 
   margin: 3rem;
   min-width: 15rem;
+}
+
+@media screen and (max-width: 1120px) {
+  .Contact__option {
+    justify-content: center;
+  }
 }
 
 .Contact__option h2 {

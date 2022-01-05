@@ -21,7 +21,7 @@ function Portfolio() {
     ];
 
     return (
-      <div className="Portfolio__main-container">
+      <div className="Portfolio__main-container" id = "portfolio">
         <div className="Portfolio__title">
           Portfolio
         </div>

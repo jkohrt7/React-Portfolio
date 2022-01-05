@@ -8,7 +8,7 @@ import rImg from '../../img/R-logo.png'
 
 function AboutMe () {
     return (
-        <div className="AboutMe__main-container">
+        <div className="AboutMe__main-container" id = "about-me">
             <div className = "AboutMe__text">
                 <div className = "AboutMe__title-text">About Me</div>
                 <p className = "AboutMe__indented-paragraph">
