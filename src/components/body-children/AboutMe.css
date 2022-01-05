@@ -19,8 +19,9 @@
 }
 
 .AboutMe__indented-paragraph {
+  margin-top: 4px;
   text-indent: 50px;
-  font-size: 90%;
+  font-size: 100%;
 }
 
 .AboutMe__skills {

@@ -10,7 +10,6 @@ function App() {
       <Navbar />
       <Hero />
       <Body />
-      <div style = {{height: 1000, width: 10}}></div>
     </div>
   );
 }
