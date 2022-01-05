@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.6b8e8eeb.css",
+    "main.js": "/React-Portfolio/static/js/main.a8fdcb23.js",
+    "static/js/787.f83899c1.chunk.js": "/React-Portfolio/static/js/787.f83899c1.chunk.js",
+    "static/media/R-logo.png": "/React-Portfolio/static/media/R-logo.e765abed02428d2af0c1.png",
+    "static/media/Jared_kohrt_picture.jpg": "/React-Portfolio/static/media/Jared_kohrt_picture.6211c72e8d9ec752fdee.jpg",
+    "static/media/check_mate.jpg": "/React-Portfolio/static/media/check_mate.a9493e1132973b73e997.jpg",
+    "static/media/open_weather.jpg": "/React-Portfolio/static/media/open_weather.f734535d911ee345c444.jpg",
+    "static/media/java.png": "/React-Portfolio/static/media/java.dbae4f1a0ba494f30345.png",
+    "static/media/react.png": "/React-Portfolio/static/media/react.fc7bd14d0a364d6d3091.png",
+    "static/media/CSS.png": "/React-Portfolio/static/media/CSS.4e67641bb68b658d9b2b.png",
+    "static/media/mongodb-logo.png": "/React-Portfolio/static/media/mongodb-logo.940824112db2f1788f28.png",
+    "static/media/javascript.png": "/React-Portfolio/static/media/javascript.266bd9fb2663dcc057b4.png",
+    "static/media/endless-constellation.svg": "/React-Portfolio/static/media/endless-constellation.8935688fa2a2066a7321.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.6b8e8eeb.css.map": "/React-Portfolio/static/css/main.6b8e8eeb.css.map",
+    "main.a8fdcb23.js.map": "/React-Portfolio/static/js/main.a8fdcb23.js.map",
+    "787.f83899c1.chunk.js.map": "/React-Portfolio/static/js/787.f83899c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8e8eeb.css",
+    "static/js/main.a8fdcb23.js"
+  ]
+}
