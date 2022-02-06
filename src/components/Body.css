@@ -10,6 +10,7 @@
 
 @media screen and (max-width: 1120px) {
   .Body__main-container {
-    padding: 0 5rem;
+    padding: 0 1rem;
+    margin: 5px;
   }
 }

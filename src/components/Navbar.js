@@ -42,8 +42,6 @@ function Toolbar() {
                         <a className= "Navbar__navigation-button" href="#portfolio">Portfolio</a>
                         <a className= "Navbar__navigation-button" href="#contact">Contact</a>
                         <a className= "Navbar__navigation-button" href="https://docs.google.com/document/d/1C6agndc-HKKnqhif_lM-BofTy1lBhqNn/edit?usp=sharing&ouid=107624104752009449706&rtpof=true&sd=true">Resume</a>
-                        
-
                 </div>
             </div>
         </div>

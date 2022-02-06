@@ -31,6 +31,12 @@
   margin: 1rem;
 }
 
+@media screen and (max-width: 1120px) {
+  .Portfolio__link-container {
+    max-width: 20rem;
+  }
+}
+
 .Portfolio__individual-project-container {
   display: flex;
   align-items: center;

@@ -1,23 +1,32 @@
 import './Portfolio.css'
 import checkMateImg from '../../img/check_mate.jpg'
 import openWeatherImg from '../../img/open_weather.jpg'
+import FriendForceImage from '../../img/FriendForce.jpg'
 
 function Portfolio() {
     const projects = [
+      {
+        title: "FriendForce",
+        subTitle: "React, MongoDB, Express",
+        description: "Full-stack MERN application. Friendforce is a CMS for hobbyists and friend groups.",
+        image: FriendForceImage,
+        link: 'https://warm-ravine-56602.herokuapp.com/login'
+      },
       {
         title: "Check-Mate",
         subtitle: "MySQL, Express.js, Handlebars",
         description: "A full-stack application that allows users to keep track of their recurring expenses.",
         image: checkMateImg,
-        link: "www.google.com"
+        link: "https://check-mate-finance-tool.herokuapp.com/"
       },
       {
         title: "OpenWeather",
         subtitle: "TailwindCSS",
         description: "Front-end application that provides weather reports from cities around the world. Powered by the OpenWeather API.",
         image: openWeatherImg,
-        link: "www.google.com"
+        link: "https://jkohrt7.github.io/Weather_Dashboard_V2/"
       }
+
     ];
 
     return (
