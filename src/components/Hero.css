@@ -1,13 +1,14 @@
 .Hero__bg-parallax {
   background-image: url(../img/endless-constellation.svg);
   background-attachment: fixed;
-
-  margin: -8rem;
-  margin-bottom: 4rem;
-  padding: 15rem;
-  padding-bottom: 8rem;
+  max-width: 100vw;
+  padding: 8rem 0 6rem 0;
+  margin-bottom: 2rem;
 
   text-align: center;
+}
+
+.Hero__central-container {
 }
 
 .Hero__header {
@@ -23,13 +24,6 @@
 }
 
 @media screen and (max-width: 1120px) {
-  .Portfolio__individual-project-container {
-    width: 100%;
-    height: 7.5rem;
-
-    margin: -5rem;
-  }
-
   .Hero__header {
     font-size: 2.5rem;
   }

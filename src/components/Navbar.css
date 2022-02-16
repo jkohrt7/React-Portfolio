@@ -13,6 +13,8 @@
   background-color: rgba(0, 0, 0, 0);
   transition-property: all;
   transition-duration: 0.3s;
+
+  margin-bottom: -4rem;
 }
 
 .Navbar__content-container {
@@ -21,6 +23,8 @@
 
   padding: 0rem 0.5rem;
   margin: 0 auto;
+
+  overflow: hidden;
 }
 
 /* The left side of the navbar */
@@ -55,6 +59,9 @@
 @media screen and (max-width: 1120px) {
   #Navbar__selection-container {
     opacity: 0;
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
   }
 }
 
