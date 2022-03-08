@@ -3,6 +3,7 @@ import checkMateImg from '../../img/check_mate.jpg'
 import openWeatherImg from '../../img/open_weather.jpg'
 import FriendForceImage from '../../img/FriendForce.jpg'
 import CustardCrewImage from '../../img/custard_crew.jpg'
+import neoImage from '../../img/NEO.jpg'
 
 function Portfolio() {
     const projects = [
@@ -33,6 +34,13 @@ function Portfolio() {
         description: "Front-end application that provides weather reports from cities around the world. Powered by the OpenWeather API.",
         image: openWeatherImg,
         link: "https://jkohrt7.github.io/Weather_Dashboard_V2/"
+      },
+      {
+        title: "NEO Visualizations",
+        subtitle: "react, THREE.js",
+        description: "A 3D React application for visualizing the size of near-earth objects.",
+        image: neoImage,
+        link: "https://jkohrt7.github.io/Asteroids/"
       }
 
     ];
