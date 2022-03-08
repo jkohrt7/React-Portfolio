@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.b19d1775.css",
-    "main.js": "/React-Portfolio/static/js/main.5a14759a.js",
+    "main.js": "/React-Portfolio/static/js/main.ca13f051.js",
     "static/js/787.f83899c1.chunk.js": "/React-Portfolio/static/js/787.f83899c1.chunk.js",
     "static/media/R-logo.png": "/React-Portfolio/static/media/R-logo.e765abed02428d2af0c1.png",
     "static/media/Jared_kohrt_picture.jpg": "/React-Portfolio/static/media/Jared_kohrt_picture.6211c72e8d9ec752fdee.jpg",
+    "static/media/NEO.jpg": "/React-Portfolio/static/media/NEO.762479e5ce70605367c4.jpg",
     "static/media/check_mate.jpg": "/React-Portfolio/static/media/check_mate.a9493e1132973b73e997.jpg",
     "static/media/open_weather.jpg": "/React-Portfolio/static/media/open_weather.f734535d911ee345c444.jpg",
     "static/media/FriendForce.jpg": "/React-Portfolio/static/media/FriendForce.26d0be05414dfbdf9275.jpg",
@@ -17,11 +18,11 @@
     "static/media/endless-constellation.svg": "/React-Portfolio/static/media/endless-constellation.8935688fa2a2066a7321.svg",
     "index.html": "/React-Portfolio/index.html",
     "main.b19d1775.css.map": "/React-Portfolio/static/css/main.b19d1775.css.map",
-    "main.5a14759a.js.map": "/React-Portfolio/static/js/main.5a14759a.js.map",
+    "main.ca13f051.js.map": "/React-Portfolio/static/js/main.ca13f051.js.map",
     "787.f83899c1.chunk.js.map": "/React-Portfolio/static/js/787.f83899c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b19d1775.css",
-    "static/js/main.5a14759a.js"
+    "static/js/main.ca13f051.js"
   ]
 }
